@@ -1,6 +1,6 @@
 # Hotel Application 
 
-This is a Bakery mobile application build using Flutter.
+This is a Hotel search mobile application build using Flutter. Here users can search and find the matching hotel according to location, person and price.
 
 ScreenShots of the application:
 Screenshots| Screenshots
